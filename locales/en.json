@@ -567,6 +567,8 @@
       "default": "Default",
       "nameAsc": "Name (A-Z)",
       "nameDesc": "Name (Z-A)",
+      "idAsc": "ID (ascending)",
+      "idDesc": "ID (descending)",
       "versionDesc": "Version (newest)",
       "versionAsc": "Version (oldest)",
       "rarityDesc": "Rarity (highest)"

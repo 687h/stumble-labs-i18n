@@ -562,6 +562,15 @@
     "selectRarity": "Select rarity",
     "category": "Category",
     "selectCategory": "Select category",
+    "sortBy": "Sort by",
+    "sort": {
+      "default": "Default",
+      "nameAsc": "Name (A-Z)",
+      "nameDesc": "Name (Z-A)",
+      "versionDesc": "Version (newest)",
+      "versionAsc": "Version (oldest)",
+      "rarityDesc": "Rarity (highest)"
+    },
     "itemsPerPage": "Items per page",
     "loaded": "Loaded",
     "activeFilters": "Active Filters",

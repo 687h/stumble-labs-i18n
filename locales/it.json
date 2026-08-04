@@ -577,6 +577,17 @@
     "selectRarity": "Seleziona rarità",
     "category": "Categoria",
     "selectCategory": "Seleziona categoria",
+    "sortBy": "Ordina per",
+    "sort": {
+      "default": "Predefinito",
+      "nameAsc": "Nome (A-Z)",
+      "nameDesc": "Nome (Z-A)",
+      "idAsc": "ID (crescente)",
+      "idDesc": "ID (decrescente)",
+      "versionDesc": "Versione (più recente)",
+      "versionAsc": "Versione (più vecchia)",
+      "rarityDesc": "Rarità (più alta)"
+    },
     "itemsPerPage": "Elementi per pagina",
     "loaded": "Caricati",
     "activeFilters": "Filtri attivi",

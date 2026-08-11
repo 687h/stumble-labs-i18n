@@ -246,6 +246,9 @@
     }
   },
   "lb": {
+    "syncNoticeTitle": "Problema di sincronizzazione della classifica risolto",
+    "syncNoticeText": "Alcuni giocatori Ranked potrebbero aver notato aumenti di punti insolitamente alti in questa stagione e nella precedente (es. +1k, +5k, +10k), causati da un errore interno di sincronizzazione, non da Scopely o Stumble Guys. È stato risolto l'8 agosto 2026 alle 4:34 UTC. Noti ancora qualcosa di sbagliato? Segnalalo sul nostro",
+    "syncNoticeDiscord": "Discord di Stumble Labs",
     "rankedHeader": "Classificata",
     "rankedDescription": "Qui trovi approfondimenti sulla classifica, come la distribuzione dei giocatori tra i diversi gradi, regioni e piattaforme, oltre alla classifica attuale.",
     "playerDistribution": "Distribuzione dei giocatori",
@@ -825,6 +828,9 @@
     }
   },
   "rankedSection": {
+    "syncResolvedTitle": "Problema di sincronizzazione del Ranked risolto",
+    "syncResolvedText": "L'errore interno di sincronizzazione che causava aumenti di punti insoliti (es. +1k, +5k, +10k) per alcuni giocatori Ranked in questa stagione e nella precedente è stato risolto l'8 agosto 2026 alle 4:34 UTC. Noti ancora qualcosa di sbagliato? Faccelo sapere sul nostro",
+    "syncResolvedDiscord": "Discord di Stumble Labs",
     "noRankedData": "Nessun dato di Classificata disponibile",
     "noRankedHistory": "Questo utente non ha dati sulla cronologia della Classificata.",
     "current": "Attuale",
